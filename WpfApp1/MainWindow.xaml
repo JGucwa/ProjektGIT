@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Button Content="Brama" Height="50" Width="150"/>
         <Label Content="label1"></Label>
     </Grid> 
 </Window>
